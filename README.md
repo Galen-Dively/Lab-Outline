@@ -26,8 +26,7 @@ This Python script automates the process of creating a lab outline document from
   The script uses the `docx` library to generate `.docx` files. Make sure to install the required dependencies:
   ```bash
   pip install python-docx
-
-
+### How To Run
 * LibreOffice must be installed and available in your system's `PATH` to open the generated document automatically. There is an option once the program is running to not open in libre.
 1. Install the required libraries:
 'pip install python-docx'
